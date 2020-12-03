@@ -1,4 +1,3 @@
-import datetime
 from timeit import default_timer as timer
 
 if __name__ == '__main__':
